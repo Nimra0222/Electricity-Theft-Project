@@ -99,9 +99,4 @@ Then open the local URL Dash prints (default `http://127.0.0.1:8050`) in your br
 - Add historical weather data per date instead of only current weather
 - Add proper user authentication (hashed passwords, session management)
 
-## 👤 Author
-
-Nimra
-
-
 Specify a license (e.g. MIT) before publishing publicly.
